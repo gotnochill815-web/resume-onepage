@@ -1,0 +1,18 @@
+{
+  "name": "resume-onepage",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.2",
+    "next": "16.0.8",
+    "puppeteer": "^21.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
