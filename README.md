@@ -18,16 +18,6 @@ Works with app/ router
 
 Ideal for portfolio deployment (Vercel-ready)
 
-project/
- ├── app/
- │   ├── page.tsx           # Main resume page
- │   ├── page.module.css    # Styles for resume layout
- │   └── layout.tsx         # Root layout
- ├── public/
- │   └── patricia.jpg       # Profile photo
- ├── package.json
- ├── README.md
- └── next.config.js
  
  🛠️ Tech Stack
 
