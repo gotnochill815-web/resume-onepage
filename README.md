@@ -31,16 +31,7 @@ TypeScript or JavaScript (your choice)
 
 Vercel Hosting (optional)
 
-🔧 Getting Started
-1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/resume-nextjs.git
-cd resume-nextjs
 
-2. Install dependencies
-npm install
-
-3. Run development server
-npm run dev
 
 
 Then open:
