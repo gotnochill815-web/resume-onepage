@@ -91,19 +91,6 @@ npm run start
 Feel free to fork the project, open issues, or submit PRs.
 Open to improvements such as theme switching, JSON resume data, or export-to-PDF functionality.
 
-📜 License
-
-MIT License — free to use and modify.
-
-If you want, I can also:
-
-✨ Add a project screenshot
-✨ Add shields/badges
-✨ Make the README more stylish
-✨ Write instructions for JSON-based dynamic resume data
-✨ Auto-generate PDF export
-
-Just tell me.
 
 🌐 Deployment (Vercel)
 
@@ -126,6 +113,3 @@ npm run start
 Feel free to fork the project, open issues, or submit PRs.
 Open to improvements such as theme switching, JSON resume data, or export-to-PDF functionality.
 
-📜 License
-
-MIT License — free to use and modify.
